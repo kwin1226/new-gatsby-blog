@@ -1,5 +1,5 @@
 ---
-title: "Why I Love Ice Cream"
+title: "i18N document"
 date: "2017-08-10"
 ---
 

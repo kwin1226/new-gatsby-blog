@@ -23,7 +23,7 @@ export default ({ data }) => {
         <h1>Andrew's' Blog</h1>
       </div>
       <h1>Hi people</h1>
-      <h4>{data.allMarkdownRemark.totalCount}</h4>
+      <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => {
         console.log('Node:', node);
         return (
